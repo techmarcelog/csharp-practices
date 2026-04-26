@@ -59,4 +59,3 @@ As I continue studying, this repository may also include:
 ## Author
 
 Developed by Marcelo Sousa as part of his software development studies.
-Developed by Marcelo Sousa as part of his software development studies.
